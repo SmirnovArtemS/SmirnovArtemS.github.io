@@ -3,9 +3,9 @@ title: Персональный сайт студента РУДН
 date: 2026-05-03
 links:
   - type: site
-    url: https://den4ik-dev.github.io/
+    url: https://SmirnovArtemS.github.io/
   - type: source
-    url: https://github.com/Den4ik-dev/den4ik-dev.github.io
+    url: https://github.com/SmirnovArtemS/SmirnovArtemS.github.io
 tags:
   - Hugo
   - Hugo Blox
