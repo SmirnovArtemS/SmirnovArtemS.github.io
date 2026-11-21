@@ -48,5 +48,5 @@ content\_meta:
 
 
 
-\[!\[Мой сертификат Selectel](/uploads/certificate/linux-sertificat.jpg)](/uploads/certificate/linux-sertificat.jpg)
+\[!\[Мой сертификат Selectel](\static\uploads\certificate\linux-sertificat.jpg)](\static\uploads\certificate\linux-sertificat.jpg)
 
